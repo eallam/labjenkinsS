@@ -1,0 +1,193 @@
+group letter is S
+My name is eyaad Allam
+Team members are Jacob and cross
+ 
+Volume in drive C has no label.
+ Volume Serial Number is EC41-6341
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master
+
+02/05/2014  04:02 PM    <DIR>          .
+02/05/2014  04:02 PM    <DIR>          ..
+02/05/2014  02:20 PM                45 .gitignore
+02/05/2014  04:01 PM    <DIR>          build
+02/05/2014  03:58 PM                31 build.properties
+02/05/2014  03:59 PM               929 build.xml
+02/05/2014  04:02 PM                 0 eallam.task2.txt
+02/05/2014  02:20 PM                69 my.properties
+02/05/2014  02:20 PM                57 README.md
+02/05/2014  02:20 PM    <DIR>          src
+               6 File(s)          1,131 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          classes
+02/05/2014  04:01 PM    <DIR>          doc
+02/05/2014  04:01 PM                69 my.properties
+               1 File(s)             69 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\classes
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\classes\banking
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          gui
+02/05/2014  04:01 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\classes\banking\gui
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM               587 Main.class
+02/05/2014  04:01 PM             1,171 MainFrame$DepositHandler.class
+02/05/2014  04:01 PM             1,458 MainFrame$DisplayHandler.class
+02/05/2014  04:01 PM               361 MainFrame$FrameHandler.class
+02/05/2014  04:01 PM             1,263 MainFrame$NewAccountHandler.class
+02/05/2014  04:01 PM               811 MainFrame$SaveAccountsHandler.class
+02/05/2014  04:01 PM             1,180 MainFrame$WithdrawHandler.class
+02/05/2014  04:01 PM             3,155 MainFrame.class
+               8 File(s)          9,986 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\classes\banking\primitive
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\classes\banking\primitive\core
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM               962 Account$State.class
+02/05/2014  04:01 PM             1,296 Account.class
+02/05/2014  04:01 PM               559 AccountServer.class
+02/05/2014  04:01 PM               546 AccountServerFactory.class
+02/05/2014  04:01 PM             1,452 Checking.class
+02/05/2014  04:01 PM             1,378 Savings.class
+02/05/2014  04:01 PM             4,110 ServerSolution.class
+               7 File(s)         10,303 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM             1,187 allclasses-frame.html
+02/05/2014  04:01 PM             1,087 allclasses-noframe.html
+02/05/2014  04:01 PM    <DIR>          banking
+02/05/2014  04:01 PM             3,437 constant-values.html
+02/05/2014  04:01 PM             3,387 deprecated-list.html
+02/05/2014  04:01 PM             8,177 help-doc.html
+02/05/2014  04:01 PM            14,197 index-all.html
+02/05/2014  04:01 PM             2,746 index.html
+02/05/2014  04:01 PM               834 overview-frame.html
+02/05/2014  04:01 PM             3,961 overview-summary.html
+02/05/2014  04:01 PM             4,762 overview-tree.html
+02/05/2014  04:01 PM                37 package-list
+02/05/2014  04:01 PM    <DIR>          resources
+02/05/2014  04:01 PM             5,718 serialized-form.html
+02/05/2014  04:01 PM            11,613 stylesheet.css
+              13 File(s)         61,143 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc\banking
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          gui
+02/05/2014  04:01 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc\banking\gui
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM               524 package-frame.html
+02/05/2014  04:01 PM             3,676 package-summary.html
+02/05/2014  04:01 PM             3,801 package-tree.html
+               3 File(s)          8,001 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc\banking\primitive
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc\banking\primitive\core
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM            10,720 Account.html
+02/05/2014  04:01 PM            11,682 AccountServer.html
+02/05/2014  04:01 PM             8,019 AccountServerFactory.html
+02/05/2014  04:01 PM            13,393 Checking.html
+02/05/2014  04:01 PM             1,312 package-frame.html
+02/05/2014  04:01 PM             5,651 package-summary.html
+02/05/2014  04:01 PM             5,115 package-tree.html
+02/05/2014  04:01 PM            12,807 Savings.html
+               8 File(s)         68,699 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\build\doc\resources
+
+02/05/2014  04:01 PM    <DIR>          .
+02/05/2014  04:01 PM    <DIR>          ..
+02/05/2014  04:01 PM             2,313 background.gif
+02/05/2014  04:01 PM               291 tab.gif
+02/05/2014  04:01 PM            10,701 titlebar.gif
+02/05/2014  04:01 PM               849 titlebar_end.gif
+               4 File(s)         14,154 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\src
+
+02/05/2014  02:20 PM    <DIR>          .
+02/05/2014  02:20 PM    <DIR>          ..
+02/05/2014  02:20 PM    <DIR>          banking
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\src\banking
+
+02/05/2014  02:20 PM    <DIR>          .
+02/05/2014  02:20 PM    <DIR>          ..
+02/05/2014  02:20 PM    <DIR>          gui
+02/05/2014  02:20 PM    <DIR>          primitive
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\src\banking\gui
+
+02/05/2014  02:20 PM    <DIR>          .
+02/05/2014  02:20 PM    <DIR>          ..
+02/05/2014  02:20 PM               721 Main.java
+02/05/2014  02:20 PM             5,891 MainFrame.java
+               2 File(s)          6,612 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\src\banking\primitive
+
+02/05/2014  02:20 PM    <DIR>          .
+02/05/2014  02:20 PM    <DIR>          ..
+02/05/2014  02:48 PM    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\labcibuild-master (1)\labcibuild-master\src\banking\primitive\core
+
+02/05/2014  02:48 PM    <DIR>          .
+02/05/2014  02:48 PM    <DIR>          ..
+02/05/2014  02:20 PM             1,935 Account.java
+02/05/2014  02:20 PM             1,483 AccountServer.java
+02/05/2014  02:20 PM               407 AccountServerFactory.java
+02/05/2014  02:20 PM             1,523 Checking.java
+02/05/2014  02:20 PM             1,264 Savings.java
+02/05/2014  02:20 PM             3,164 ServerSolution.java
+               6 File(s)          9,776 bytes
+
+     Total Files Listed:
+              58 File(s)        189,874 bytes
+              53 Dir(s)   4,495,413,248 bytes free
