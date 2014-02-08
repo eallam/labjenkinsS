@@ -7,7 +7,7 @@
 	
 	<target name="prepare">
 		<tstamp/>
-		<mkdir dir="${build}" />
+		<!--<mkdir dir="${build}" />!-->
 	</target>
 
 	<target name="compile" depends="prepare">
