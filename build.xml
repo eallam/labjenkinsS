@@ -1,6 +1,7 @@
 <project name="CST316Lab1Lab2" default="build" basedir=".">
    <property file="build.properties"/>
 
+        <path id="compile.classpath">
             <pathelement path="${build}/classes"/>  
         </path>
 	
